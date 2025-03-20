@@ -14,6 +14,19 @@ from database import (
 )
 
 # an HTTP-specific exception class  to generate exception information
+#
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Get MongoDB URI from the environment
+#mongodb_uri = os.getenv('MONGODB_URI')
+
+#print(mongodb_uri)  # MongoDB URI ko print karke check kar sakte hain
+
+#
 
 from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()

@@ -8,4 +8,4 @@ fastapi == 0.65.1
 uvicorn == 0.14.0
 
 # Motor is a full-featured, non-blocking IO MongoDB driver for Python 
-motor == 2.4.0
+motor == 2.5.0
