@@ -1,8 +1,11 @@
 # FastAPI-ReactJs-Mongodb #
 
 <br>
+Welcome to My Project 
+ 
+This project is built using FastAPI for the backend, ReactJS for the frontend, and MongoDB for the database.
 
-Fe
+Feel free to clone and contribute.
 
 # Introduction #
 FARM is an acronym representing FastAPI, React, and MongoDB. In this course, we'll leverage these cutting-edge technologies to create a full-fledged application. The stack is designed with a focus on speed, efficiency, and seamless data persistence.
@@ -26,12 +29,10 @@ Concurrency: FastAPI supports coroutines and concurrency without the need for im
 
 Interactive API Documentation: FastAPI simplifies testing of various HTTP requests (GET, POST, PUT, DELETE) through interactive API documentation. Leveraging OpenAPI, which is based on JSON schema, this feature allows visual testing of different API endpoints.
 
-# Course Details #
-For an in-depth exploration of the FARM Stack and to gain a comprehensive understanding of each component, please follow along in the video. 
 
-Detailed explanations and hands-on demonstrations will guide you through the intricacies of building a robust application using FastAPI, React, and MongoDB.
 
 Thank you for joining us on this learning journey.
 
 Best Regards,
-Bek
+
+Aanya Tanwar
