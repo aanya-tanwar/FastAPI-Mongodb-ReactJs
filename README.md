@@ -1,12 +1,8 @@
-# FARM Stack Course #
+# FastAPI-ReactJs-Mongodb #
 
 <br>
 
-![farm](https://github.com/BekBrace/FARM-Stack-Course/assets/60483846/0fac8512-ac01-4309-abf6-29e4e23bfb13)
-
-https://www.youtube.com/watch?v=oGwszbCH5Z4&t=628s
-
-Welcome to the FARM Stack course, where you'll embark on a journey to master the art of building robust applications from the ground up using FASTAPI, React, and MongoDB.
+Fe
 
 # Introduction #
 FARM is an acronym representing FastAPI, React, and MongoDB. In this course, we'll leverage these cutting-edge technologies to create a full-fledged application. The stack is designed with a focus on speed, efficiency, and seamless data persistence.
