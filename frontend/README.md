@@ -4,6 +4,15 @@
 ## Description
 follow the steps to run frontend
 
+## Features
+ 
+- **GET**: Fetches data from the backend.
+
+- **POST**: Sends data to the backend to create new records.
+
+- **PUT**: Updates existing records in the backend.
+
+ 
 ## Prerequisites
 
 List any software, tools, or libraries that need to be installed before setting up your project. For example:
